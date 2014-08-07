@@ -6,8 +6,8 @@
  var path = require('path');
 
 exports.cli = {
-    description: 'a.b.c 文件目录最后为文件名 --Form 继承的对象（包括FormList Normal）',
-    options: [ 'formList', 'form'],
+    description: 'a.b.c 文件目录最后为文件名 --formList 继承的对象（默认为default）',
+    options: [ 'formList', 'default'],
     main: function( args, opts ) {
         var file = args[0];
         var superClass;

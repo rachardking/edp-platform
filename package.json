@@ -1,22 +1,22 @@
 {
   "name": "edpx-seed",
   "version": "0.0.1",
-  "description": "edp user command seed",
+  "description": "edp platform",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ecomfe/edpx-seed.git"
+    "url": "git://github.com/rachardking/edp-platform.git"
   },
   "keywords": [
-    "edp"
+    "edp-platform"
   ],
-  "author": "leeight@gmail.com",
+  "author": "jinzhiwei@baidu.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ecomfe/edpx-seed/issues"
+    "url": "https://github.com/rachardking/edp-platform/issues"
   },
-  "homepage": "https://github.com/ecomfe/edpx-seed"
+  "homepage": "https://github.com/rachardking/edp-platform"
 }
