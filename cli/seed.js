@@ -19,7 +19,7 @@ exports.cli = {
     main: function( args, opts ) {
         console.log( 'See edp seed --help' );
     }
-}
+};
 
 
 
